@@ -6,7 +6,6 @@ Poppikuutio on lempinimi akulliselle kaiuttimelle, joka on epävirallisesti toim
 
 Alunperin saatu lahjaksi Athenelta(?) vuonna nakki ja kivi. Ulkomuodoltaan laite muistuttaa pientä kitaravahvistinta.
 
-
 ## Poppikuutio v2
 
 Tammikuussa 2017 todettiin alkuperäisen Poppikuution lähenevän elinkaarensa loppua ja tästä syystä aloitettiin projekti laitteen uusimiseksi. Yhdessä todettiin ettei vanhassa kuutiossa ollut mitään uudelleen käyttämisen arvoisia osia, joten uuden version suunnittelu aloitettiin puhtaalta pöydältä.
@@ -15,8 +14,8 @@ Tammikuussa 2017 todettiin alkuperäisen Poppikuution lähenevän elinkaarensa l
 
 ### Ominaisuudet
 - Audiolähteinä Bluetooth ja 3,5 mm plugi
-    - Lähteiden passiivinen input miksaus
-- Audio komponentit perus auto-hifiä tai vastaavaa
+    - Lähteiden passiivinen miksaus
+- Audiokomponentit perus auto-hifiä tai vastaavaa
 - Itse rakennettu kotelo
     - MDF tai vastaava
     - Kulmien ja särmien suojaukset
